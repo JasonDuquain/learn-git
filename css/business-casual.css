@@ -19,6 +19,7 @@ h1, h2, h3, h4, h5, h6, .text-heading {
 
 h1 {
   font-size: 4rem;
+    color: green;
 }
 
 .tagline-upper {
@@ -64,3 +65,5 @@ hr.divider {
 .map-container iframe.clicked {
   pointer-events: auto;
 }
+
+

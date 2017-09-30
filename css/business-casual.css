@@ -66,4 +66,6 @@ hr.divider {
   pointer-events: auto;
 }
 
-
+footer {
+    font-size: 22px;
+}
